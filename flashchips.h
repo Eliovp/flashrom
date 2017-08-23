@@ -451,6 +451,9 @@
 #define SHARP_LH28F008SA	0xA2	/* Sharp chip, Intel Vendor ID */
 #define SHARP_LH28F008SC	0xA6	/* Sharp chip, Intel Vendor ID */
 
+#define ISSI_NEW_ID		0x9D
+#define ISSI_IS25WQ040		0x1253
+
 #define ISSI_ID			0xD5	/* ISSI Integrated Silicon Solutions, see also PMC. */
 #define ISSI_PMC_IS29GL032B	0xF9
 #define ISSI_PMC_IS29GL032T	0xF6
